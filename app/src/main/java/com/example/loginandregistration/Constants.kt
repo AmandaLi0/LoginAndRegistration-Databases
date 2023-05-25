@@ -1,6 +1,7 @@
 package com.example.loginandregistration
 
 object Constants {
-    const val APP_ID = "EA703F6C-09A3-7733-FFE9-D6F9F3295900"
-    const val API_KEY = "15D6FF52-39C4-4F9D-A712-248E459A2491"
+    const val APP_ID = "D761F452-CC33-6C9C-FFFB-792BF67B3D00"
+    const val API_KEY = "14487790-D4F9-42D9-8CC3-781ADFFA4907"
 }
+//uhhhh this
